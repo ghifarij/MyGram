@@ -10,8 +10,4 @@ Key Features:
 
 • Secure Authentication: Ensuring data security and user privacy, MyGram implements a robust authentication system. Access to endpoints for interacting with SocialMedia, Photo, and Comment tables requires authentication using JsonWebToken (JWT).
 
-<<<<<<< HEAD
 • Powered by Gin Gonic and Gorm: Leveraging the efficient Gin Gonic framework and the versatile orm Gorm, MyGram delivers a seamless user experience with optimized performance and reliability.
-=======
-• Powered by Gin Gonic and Gorm: Leveraging the efficient Gin Gonic framework and the versatile orm Gorm, MyGram delivers a seamless user experience with optimized performance and reliability.
->>>>>>> 4a1284cfe28d1ba2d1eeb8a442b6181f7c3959a3

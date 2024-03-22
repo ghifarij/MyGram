@@ -121,8 +121,8 @@ func (u *userHandlerImpl) Update(ctx *gin.Context) {
 }
 
 // Delete godoc
-// @Summary Create new User
-// @Description Create new Users
+// @Summary Delete User
+// @Description Delete Users
 // @Tags Users
 // @Accept json
 // @Produce json
