@@ -1,4 +1,4 @@
-# Final Project 2 - MyGram App
+# Final Project - MyGram App
 
 Welcome to MyGram, a dynamic social media application designed for storing and sharing photos while facilitating engaging discussions through comments. Developed as a final project, MyGram empowers users to seamlessly capture moments, express themselves through imagery, and connect with others in a vibrant online community.
 
